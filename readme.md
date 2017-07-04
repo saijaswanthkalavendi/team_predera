@@ -1,6 +1,5 @@
 
-
-## Linux cheat sheet
+##'''diff + Linux cheat sheet'''
 
 
 | KeyWord | Description | Command |
@@ -31,4 +30,13 @@
 | 'rm' | Remove files or directories | **rm file.txt rm rf some dir** |
 | 'pwd' | Print name of current directory | **pwd** |
 | 'mkdir' | mkdir helps to make directories | **mkdir folder-name** |
+
+__Reference link__ [GitHub Help](https://help.github.com/).
+
+
+'''
+hope you like the presentation  :+1: 
+Thank you.
+'''
+
 
