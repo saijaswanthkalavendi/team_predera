@@ -4,15 +4,9 @@
 
 
 | KeyWord | Description | Command |
-
-| :---    | :---:       | :---    |
-
 | --- | --- | --- |
-
 | 'apt-get' | Automatically update Debain machine and to get packages to be updated | **sudo apt-get update <package-name>** |
-
 | 'apt-get' | Automatically update Debain machine and to get packages to be installed | **sudo apt-get install <package-name>** |
-
 | 'cat' | It is used to diaplay content | **cat<file-name>** |
 
 | 'cd' | Change directory in Linux and can jump to directories | **cd folder/directory/** |
