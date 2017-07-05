@@ -31,11 +31,28 @@
 | 'pwd' | Print name of current directory | **pwd** |
 | 'mkdir' | mkdir helps to make directories | **mkdir folder-name** |
 
-__Reference link__ [GitHub Help](https://help.github.com/).
+__Reference link__ [GitHub Help](https://guides.github.com/features/mastering-markdown/).
+
+## Advantages of Ubuntu : 
+
+1. UNIX Environment :
+    > Best for you if you are a programmer, and do not need windows for the same. Piping and redirection combined with traditional UNIX utilities are enough to blow anyone’s mind.
+2. Cost : 
+    > Ubuntu is free while you are paying for windows, buy a laptop without an operating system and install Ubuntu on it. It would save money while providing the same quality. Although you can donate if you feel like.
+
+## Disadvantages of Ubuntu : 
+
+* It is not possible to play the modern games in Ubuntu OS. It shows the poor graphics quality and ne have to use emulators to do so that harms the graphics quality.
+
+- And finally one more major drawback of Ubuntu is that a user switching from Windows or MAC will not like user experience on Ubuntu and will have difficulty in operating the OS.
+
+
+
+[x] Completed markdown task
 
 
 '''
-hope you like the presentation  :+1: 
+Hope you like the presentation  :+1: 
 Thank you.
 '''
 
