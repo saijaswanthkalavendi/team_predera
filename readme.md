@@ -9,7 +9,7 @@
 | 'cat' | It is used to diaplay content | **cat<file-name>** |
 | 'cd' | Change directory in Linux and can jump to directories | **cd folder/directory/** |
 | 'chmod' | Changes the access mode of one or more files * Example : Lets have a file named archive.sh. We need to prevent from executing by outsiders | **chmod 777 archive.sh** |
-| 'greep' | Searches files for given character string or pattern | **-** |
+| 'greep' | Searches files for given character string or pattern | **grep -rl "string" /path** |
 | 'chown' | Chown changes file or group ownership has the option to change ownership of all objects | **chown owner-user : owner-group file-name -R** |
 | 'ls' | To list files in a directory | **ls** |
 | 'ls -l' | To list files with mode premissions | **ls -l file1** |
