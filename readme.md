@@ -48,7 +48,7 @@ __Reference link__ [GitHub Help](https://guides.github.com/features/mastering-ma
 
 
 
-[x] Completed markdown task
+- [x] Completed markdown task
 
 
 '''
